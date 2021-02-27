@@ -26,6 +26,8 @@ template<class T>bool chmin(T &a, const T &b) { if (b<a) { a=b; return true; } r
 
 //-----main-----------------------
 int main() {
+    //表示
+    //cout << std::fixed << std::setprecision(20);
     //----code here------------
 
 
